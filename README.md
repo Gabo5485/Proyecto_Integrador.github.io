@@ -127,7 +127,9 @@ El servidor web: Se tendría un servidor web dentro de la Tú decide, el cuál a
 
 Web hosting: Otro elemento sería usar un Web hosting del tipo compartido por el momento para ahorrar en costos del servicio, al igual que un servidor web nos servirá para guardar la información de la página web de Tú decide.
 
+
 ![image](https://user-images.githubusercontent.com/102937041/164845263-3341b54f-59a8-4e90-acb3-4a547c9a2c58.png)
+
 
 UDDI (Universal Description, Discovery, and Integration): Son el catalogo o directorio donde se almacenan servicios publicados, un tipo de biblioteca virtual de los servicios que proporcionara Tú decide.
 
