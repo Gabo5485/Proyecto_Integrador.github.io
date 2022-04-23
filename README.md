@@ -1,7 +1,6 @@
 # Proyecto_Integrador.github.io
 
-                                                           
-                                                           
+                                                                                                                     
                                                            
                                                            UNIVERSIDAD DEL VALLE DE MEXICO
 
