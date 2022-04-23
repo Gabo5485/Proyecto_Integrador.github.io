@@ -1,37 +1,33 @@
 # Proyecto_Integrador.github.io
 Proyecto Integrador 
-UNIVERSIDAD DEL VALLE DE MEXICO
+                                                            UNIVERSIDAD DEL VALLE DE MEXICO
 
 
-                   ![image](https://user-images.githubusercontent.com/102937041/164844475-56463ba1-c567-4a38-ae74-9e83908be0f0.png)
+                   ![image](https://user-images.githubusercontent.com/102937041/164844967-20726712-c3ab-4d66-9f85-a70660d99e15.png)
 
 
-
-
-
-
-Tecnologías de Construcción de Servicios Web
+                                                     Tecnologías de Construcción de Servicios Web
 
 
 
-Actividad 9. Proyecto integrador. Etapa 3
+                                                      Actividad 9. Proyecto integrador. Etapa 3
 
 
 
-Alumn. Jesús Gabriel Ocampo Bahena
+                                                        Alumn. Jesús Gabriel Ocampo Bahena
 
 
 
-Profe. Manuel Triana Vega
+                                                           Profe. Manuel Triana Vega
 
 
 
-MÉXICO, CDMX, 22/04/2022
+                                                             MÉXICO, CDMX, 22/04/2022
 
 
 
 
-                                                                       Introducción
+                                                                 Introducción
 El presente trabajo nos dará una introducción de varias partes de lo que es una arquitectura web, como se puede usar para el aprovechamiento de una empresa en la resolución, mejoramiento, crecimiento y evolución. La arquitectura web se enfoca en diseñar y construir aplicaciones que usualmente usamos en la web gracias al protocolo HTPP (Protocolo de transferencia de hipertexto), con el cual se tiene comunicación con el usuario y otras aplicaciones.
 En esta primera entrega del proyecto nos enfocaremos en dar una introducción del tema de la arquitectura web basándonos en un negocio, en el cual vamos a buscar cómo se puede agregar valoración a dicha empresa. Se describa a su vez la metodología, características, impacto, etc. De la arquitectura web que se decida usar para darnos una idea de cómo es el procedimiento para implementarla y tener un amplio entendimiento de su capacidad en un ambiente ficticio.
 En la siguiente entrega del trabajo profundizaremos más en la creación del servicio web para nuestra empresa Tú Decide, ahora vamos a detallar más características y el proceso de creación del servicio, daremos una especie de maqueta de la arquitectura definiendo varios puntos. Definiremos los datos a usar y que se comunicarán en el servicio web, daremos una explicación de los procesos de extracción y carga de datos en nuestra arquitectura, revisaremos cuales serán nuestros procesos para el almacenamiento y gestión de datos, describiremos la forma de la interface a la cual tendrá accedo el cliente para interactuar con la empresa y, por último, hablaremos de los diferentes mecanismos de seguridad que podemos implementar en el servicio web.
